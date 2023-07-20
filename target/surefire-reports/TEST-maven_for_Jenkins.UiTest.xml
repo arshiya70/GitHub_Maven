@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="maven_for_Jenkins.UiTest" time="0.008" errors="0" skipped="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="UIPATH_USER_SERVICE_PATH" value="C:\Users\lenovo user\AppData\Local\UiPath\app-21.4.4\net461\..\UiPath.Service.UserHost.exe"/>
+    <property name="LOGONSERVER" value="\\DESKTOP-6RGBUKB"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="PSModulePath" value="C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="DESKTOP-6RGBUKB"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="11.0.20"/>
+    <property name="JOB_NAME" value="EclipseTest_MavenPlugin"/>
+    <property name="COMPUTERNAME" value="DESKTOP-6RGBUKB"/>
+    <property name="ANDROID_HOME" value="C:\Users\lenovo user\OneDrive\Desktop\android-sdk"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="java.version.date" value="2023-07-18"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="ChocolateyLastPathUpdate" value="133281827631533659"/>
+    <property name="user.name" value="lenovo user"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 78 Stepping 3, GenuineIntel"/>
+    <property name="IntelliJ IDEA Community Edition" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\lenovo user\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/EclipseTest_MavenPlugin/2/display/redirect?page=changes"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-EclipseTest_MavenPlugin-2"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Program Files\apache-maven-3.8.6 C:\Users\lenovo user\.jenkins\war\WEB-INF\lib\remoting-3077.vd69cf116da_6f.jar C:\Users\lenovo user\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.14.jar C:\Users\lenovo user\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.14.jar 60013"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="65d285ebc207e081"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="Path" value="C:\Python311\Scripts\;C:\Python311\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\xampp\php;C:\Program Files\apache-maven-3.8.6\bin;C:\Users\lenovo user\eclipse-workspace\MavenDemo\drivers\IEDriver\IEDriverServer.exe;C:\Users\lenovo user\eclipse-workspace\MavenDemo\drivers\geckodriver\geckodriver.exe;C:\Users\lenovo user\eclipse-workspace\MavenDemo\drivers\chromedriver\chromedriver.exe;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\lenovo user\OneDrive\Desktop\android-sdk\platform-tools;C:\Program Files\Java\jdk-11\bin;C:\Program Files\Java\scripts;C:\Program Files\Java\jdk-11\bin;C:\Program Files\Java\jdk-11;C:\Users\lenovo user\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\lenovo user\AppData\Local\Programs\Python\Python36-32\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\lenovo user\AppData\Local\Microsoft\WindowsApps;C:\Users\lenovo user\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin;;C:\Program Files\apache-maven-3.8.6\bin;C:\Users\lenovo user\AppData\Roaming\npm;C:\Program Files\Java\jdk-11\bin;C:\Program Files\Java\jdk-11;"/>
+    <property name="java.io.tmpdir" value="C:\Users\LENOVO~1\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\lenovo user\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/EclipseTest_MavenPlugin/2/"/>
+    <property name="M2_HOME" value="C:\Program Files\apache-maven-3.8.6"/>
+    <property name="=C:" value="C:\Users\lenovo user\Downloads"/>
+    <property name="ZES_ENABLE_SYSMAN" value="1"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="CI" value="true"/>
+    <property name="BUILD_DISPLAY_NAME" value="#2"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="65d285ebc207e081"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\lenovo user\.jenkins\workspace\EclipseTest_MavenPlugin@tmp"/>
+    <property name="MAVEN_HOME" value="C:\Program Files\apache-maven-3.8.6"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="VS160COMCOMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\lenovo user\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.14.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="HOMEPATH" value="\Users\lenovo user"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="BUILD_NUMBER" value="2"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven3.interceptor" value="C:\Users\lenovo user\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.14.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\apache-maven-3.8.6/bin;C:\Python311\Scripts\;C:\Python311\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\xampp\php;C:\Program Files\apache-maven-3.8.6\bin;C:\Users\lenovo user\eclipse-workspace\MavenDemo\drivers\IEDriver\IEDriverServer.exe;C:\Users\lenovo user\eclipse-workspace\MavenDemo\drivers\geckodriver\geckodriver.exe;C:\Users\lenovo user\eclipse-workspace\MavenDemo\drivers\chromedriver\chromedriver.exe;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\lenovo user\OneDrive\Desktop\android-sdk\platform-tools;C:\Program Files\Java\jdk-11\bin;C:\Program Files\Java\scripts;C:\Program Files\Java\jdk-11\bin;C:\Program Files\Java\jdk-11;C:\Users\lenovo user\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\lenovo user\AppData\Local\Programs\Python\Python36-32\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\lenovo user\AppData\Local\Microsoft\WindowsApps;C:\Users\lenovo user\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.3\bin;;C:\Program Files\apache-maven-3.8.6\bin;C:\Users\lenovo user\AppData\Roaming\npm;C:\Program Files\Java\jdk-11\bin;C:\Program Files\Java\jdk-11;;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="mavenfor_Jenkins"/>
+    <property name="POM_ARTIFACTID" value="maven_for_Jenkins"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/EclipseTest_MavenPlugin/"/>
+    <property name="OneDrive" value="C:\Users\lenovo user\OneDrive"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/EclipseTest_MavenPlugin/2/display/redirect"/>
+    <property name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
+    <property name="JENKINS_HOME" value="C:\Users\lenovo user\.jenkins"/>
+    <property name="BUILD_ID" value="2"/>
+    <property name="TEMP" value="C:\Users\LENOVO~1\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="4e03"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\lenovo user\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Program Files\apache-maven-3.8.6/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-6RGBUKB"/>
+    <property name="SCITE_USERHOME" value="C:\Users\lenovo user\AppData\Local\AutoIt v3\SciTE"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/EclipseTest_MavenPlugin/2/display/redirect?page=artifacts"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-11"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\lenovo user"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/EclipseTest_MavenPlugin/display/redirect"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\lenovo user"/>
+    <property name="USERNAME" value="lenovo user"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="C:\Users\lenovo user\eclipse-workspace\maven_for_Jenkins"/>
+    <property name="maven.conf" value="C:\Program Files\apache-maven-3.8.6\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\LENOVO~1\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="11.0.20+9-LTS-256"/>
+    <property name="java.class.path" value="C:\Users\lenovo user\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.14.jar;C:\Program Files\apache-maven-3.8.6\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\apache-maven-3.8.6/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="OneDriveConsumer" value="C:\Users\lenovo user\OneDrive"/>
+    <property name="WORKSPACE" value="C:\Users\lenovo user\.jenkins\workspace\EclipseTest_MavenPlugin"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/EclipseTest_MavenPlugin/2/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.specification.maintenance.version" value="2"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="ChocolateyInstall" value="C:\ProgramData\chocolatey"/>
+    <property name="java.runtime.version" value="11.0.20+9-LTS-256"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="user.country" value="IN"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\Program Files\apache-maven-3.8.6"/>
+    <property name="JOB_BASE_NAME" value="EclipseTest_MavenPlugin"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="POM_DISPLAYNAME" value="maven_for_Jenkins"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase classname="maven_for_Jenkins.UiTest" name="startBrowser" time="0.008"/>
+</testsuite>
